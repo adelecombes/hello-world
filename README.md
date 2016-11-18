@@ -1,2 +1,3 @@
 # hello-world
 Getting to grips...
+So much codey stuff to learn. Hello mac and being all htmley. Practically a nerd.
